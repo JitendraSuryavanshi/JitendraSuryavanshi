@@ -14,12 +14,6 @@
   <img src="https://github-profile-trophy-mu.vercel.app/?username=anuraghazra&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JitendraSuryavanshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=JitendraSuryavanshi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JitendraSuryavanshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 </div><br>
 <!-- Snake Game Repo View -->
 
