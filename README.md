@@ -1,40 +1,42 @@
-# Hi, I'm Jitendra Suryavanshi 👋
+# 💫 About Me:
+🔭 Open Source Contributions & Personal Projects  
+👯 Collaboration & Community Building  
+🤝 Learning, Growth & Innovation  
+🌱 New Technologies & Emerging Trends  
+💬 Python, Java, AI, and software development  
+🎯 Building practical solutions and continuously improving my skills  
 
-## About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jitendra-Suryavanshi)
 
-I’m a technology enthusiast focused on building practical projects, learning emerging technologies, and contributing to the developer community.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 Exploring open-source contributions and personal projects
-- 🌱 Continuously learning software development, AI, and modern technologies
-- 🤝 Open to collaboration, knowledge sharing, and meaningful projects
-- 💬 Interested in Python, Java, artificial intelligence, and emerging technology
-- 🎯 Focused on continuous growth, innovation, and creating useful solutions
+## 🧠 Areas of Interest:
+- Artificial Intelligence and emerging technologies
+- Python and Java development
+- Open-source projects and collaboration
+- Problem solving, innovation, and continuous learning
 
-## Connect With Me
-
-- [LinkedIn](https://linkedin.com/in/Jitendra-Suryavanshi)
-- [Twitch](https://www.twitch.tv/)
-
-## Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## GitHub Highlights
-
+## 🏆 GitHub Trophies
 <p align="left">
   <img src="https://github-profile-trophy-mu.vercel.app/?username=JitendraSuryavanshi&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JitendraSuryavanshi&show_icons=true&theme=radical&hide_border=true" alt="Jitendra's GitHub stats" />
-</p>
+</div><br>
+<!-- Snake Game Repo View -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JitendraSuryavanshi&theme=radical&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+### ✍️ Quote Of The Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JitendraSuryavanshi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=JitendraSuryavanshi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+<!-- Profile README maintained by Jitendra Suryavanshi -->
